@@ -20,6 +20,6 @@ function characterAllegiance(arr) {
     })
     return characterAllegiance;
 }
-console.log(characterAllegiance(characters));
+// console.log(characterAllegiance(characters));
 
 
